@@ -1,1 +1,6 @@
-hi i am hritik shah
+#include<stdio.h>
+
+void main(){
+	printf("Hello\n");
+}
+
